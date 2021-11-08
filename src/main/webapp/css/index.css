@@ -1,0 +1,19 @@
+body{
+  background-image: url('https://i.ibb.co/PcpfFFJ/front.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;   
+  
+}
+
+#btn-pannel{
+    margin-top: 130px;
+      width: 500px; 
+      margin-right: 0;
+ 
+}
+
+#button{
+    width: 150px;
+    margin: 20px;
+}

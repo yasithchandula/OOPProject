@@ -1,0 +1,19 @@
+body{
+  background-image: url('frontblur.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;   
+  
+}
+
+#btn-pannel{
+    margin-top: 120px;
+      width: 500px; 
+      margin-right: 0;
+ 
+}
+
+#button{
+    width: 150px;
+    margin: 20px;
+}
